@@ -43,4 +43,5 @@ The dataset consists of **777 trees from CU Boulder’s historic district**, inc
 🔹 Include **tree age and growth trends** for historical analysis.  
 🔹 Improve accessibility by embedding the dashboard in a **public Tableau link**.  
 
+![Green Legacy](https://github.com/user-attachments/assets/91574df2-f51a-435d-ac5e-12a309b03aad)
 
