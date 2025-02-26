@@ -32,9 +32,9 @@ The dataset consists of **777 trees from CU Boulder’s historic district**, inc
 ---
 
 ## **🚀 How to View & Use the Dashboard**
-1. **Download the Tableau Packaged Workbook** (`.twbx`) from the `tableau_dashboard` folder.  
+1. **Download the Tableau Packaged Workbook** (`.twbx`) Download the Buffalization Data Visualization.twb file  
 2. Open it in **Tableau Desktop** to explore interactive visualizations.  
-3. Alternatively, view the static **PDF version** for a summary of insights.  
+3. Alternatively, view the static **PNG version** for a summary of insights.  
 
 ---
 
